@@ -1,0 +1,12 @@
+.one{
+    display:inline-block;
+    width:200px;
+}
+.two{
+    position: relative;
+    top:-15px;
+}
+.three{
+    position: relative;
+    top:-15px;
+}
