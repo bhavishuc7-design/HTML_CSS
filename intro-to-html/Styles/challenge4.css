@@ -1,0 +1,9 @@
+.tab{
+    color:grey;
+    background-color:white;
+    border:none;
+    border-radius:20px;
+    padding:10px;
+    padding-right:210px;
+    box-shadow:1.5px 1.5px 1.5px  grey;  
+}
